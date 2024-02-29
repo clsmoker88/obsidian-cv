@@ -1,7 +1,9 @@
 
+
+![](/capture.png)
 # Pierre Girard
 31 ans / pierregirard2788@gmail.com / 07 57 55 21 47
-117 rue de Clermont - 42300 Roanne
+117 rue de Clermont - [42300 Roanne](https://www.aggloroanne.fr/site-officiel-roannais-agglomeration-et-ville-de-roanne-3.html)
 ___
 # Administrateur Système et réseaux
 
@@ -33,14 +35,14 @@ ___
 
 ___
 ## expérience professionnelles
-#### **23 aout 2022 - 20 juin 2023** : LM Eco Production
+#### **23 aout 2022 - 20 juin 2023** : *LM Eco Production*
 **reconditionnement de matériel informatique :**
 * Mac Book Air et Mac Book Pro
 * ordinateur portable Windows
 * configuration logiciel
 * diagnostiquer panne
 * réparation matériel
-#### **27 septembre 2021 - 27 janvier 2022 : Soprasteria**
+#### **27 septembre 2021 - 27 janvier 2022 :** *Soprasteria*
 **Plateau Chorus, mission :**
 * testeur de nouvelle fonctionnalité
 * effectuez les preuves de test
