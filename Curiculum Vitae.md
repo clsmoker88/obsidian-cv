@@ -1,6 +1,6 @@
 
 
-![](capture.png)
+![](/capture.PNG)
 # Pierre Girard
 31 ans / pierregirard2788@gmail.com / 07 57 55 21 47
 117 rue de Clermont - [42300 Roanne](https://www.aggloroanne.fr/site-officiel-roannais-agglomeration-et-ville-de-roanne-3.html)
